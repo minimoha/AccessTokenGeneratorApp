@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC0C11F-C90D-409E-88C8-14A7D9154488}|AccessTokenGeneratorApp.API\\AccessTokenGeneratorApp.API.csproj|c:\\projects\\moha\\accesstokengeneratorapp\\accesstokengeneratorapp.api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC0C11F-C90D-409E-88C8-14A7D9154488}|AccessTokenGeneratorApp.API\\AccessTokenGeneratorApp.API.csproj|solutionrelative:accesstokengeneratorapp.api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC0C11F-C90D-409E-88C8-14A7D9154488}|AccessTokenGeneratorApp.API\\AccessTokenGeneratorApp.API.csproj|c:\\projects\\moha\\accesstokengeneratorapp\\accesstokengeneratorapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC0C11F-C90D-409E-88C8-14A7D9154488}|AccessTokenGeneratorApp.API\\AccessTokenGeneratorApp.API.csproj|solutionrelative:accesstokengeneratorapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F87B48-D388-43B9-A447-997B2E8075A2}|AccessTokenGeneratorApp.Application\\AccessTokenGeneratorApp.Application.csproj|c:\\projects\\moha\\accesstokengeneratorapp\\accesstokengeneratorapp.application\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F87B48-D388-43B9-A447-997B2E8075A2}|AccessTokenGeneratorApp.Application\\AccessTokenGeneratorApp.Application.csproj|solutionrelative:accesstokengeneratorapp.application\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F87B48-D388-43B9-A447-997B2E8075A2}|AccessTokenGeneratorApp.Application\\AccessTokenGeneratorApp.Application.csproj|c:\\projects\\moha\\accesstokengeneratorapp\\accesstokengeneratorapp.application\\common\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F87B48-D388-43B9-A447-997B2E8075A2}|AccessTokenGeneratorApp.Application\\AccessTokenGeneratorApp.Application.csproj|solutionrelative:accesstokengeneratorapp.application\\common\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F87B48-D388-43B9-A447-997B2E8075A2}|AccessTokenGeneratorApp.Application\\AccessTokenGeneratorApp.Application.csproj|c:\\projects\\moha\\accesstokengeneratorapp\\accesstokengeneratorapp.application\\common\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F87B48-D388-43B9-A447-997B2E8075A2}|AccessTokenGeneratorApp.Application\\AccessTokenGeneratorApp.Application.csproj|solutionrelative:accesstokengeneratorapp.application\\common\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F87B48-D388-43B9-A447-997B2E8075A2}|AccessTokenGeneratorApp.Application\\AccessTokenGeneratorApp.Application.csproj|c:\\projects\\moha\\accesstokengeneratorapp\\accesstokengeneratorapp.application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F87B48-D388-43B9-A447-997B2E8075A2}|AccessTokenGeneratorApp.Application\\AccessTokenGeneratorApp.Application.csproj|solutionrelative:accesstokengeneratorapp.application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F87B48-D388-43B9-A447-997B2E8075A2}|AccessTokenGeneratorApp.Application\\AccessTokenGeneratorApp.Application.csproj|c:\\projects\\moha\\accesstokengeneratorapp\\accesstokengeneratorapp.application\\common\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F87B48-D388-43B9-A447-997B2E8075A2}|AccessTokenGeneratorApp.Application\\AccessTokenGeneratorApp.Application.csproj|solutionrelative:accesstokengeneratorapp.application\\common\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F87B48-D388-43B9-A447-997B2E8075A2}|AccessTokenGeneratorApp.Application\\AccessTokenGeneratorApp.Application.csproj|c:\\projects\\moha\\accesstokengeneratorapp\\accesstokengeneratorapp.application\\common\\interfaces\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F87B48-D388-43B9-A447-997B2E8075A2}|AccessTokenGeneratorApp.Application\\AccessTokenGeneratorApp.Application.csproj|solutionrelative:accesstokengeneratorapp.application\\common\\interfaces\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F87B48-D388-43B9-A447-997B2E8075A2}|AccessTokenGeneratorApp.Application\\AccessTokenGeneratorApp.Application.csproj|c:\\projects\\moha\\accesstokengeneratorapp\\accesstokengeneratorapp.application\\common\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F87B48-D388-43B9-A447-997B2E8075A2}|AccessTokenGeneratorApp.Application\\AccessTokenGeneratorApp.Application.csproj|solutionrelative:accesstokengeneratorapp.application\\common\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F87B48-D388-43B9-A447-997B2E8075A2}|AccessTokenGeneratorApp.Application\\AccessTokenGeneratorApp.Application.csproj|c:\\projects\\moha\\accesstokengeneratorapp\\accesstokengeneratorapp.application\\common\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F87B48-D388-43B9-A447-997B2E8075A2}|AccessTokenGeneratorApp.Application\\AccessTokenGeneratorApp.Application.csproj|solutionrelative:accesstokengeneratorapp.application\\common\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F87B48-D388-43B9-A447-997B2E8075A2}|AccessTokenGeneratorApp.Application\\AccessTokenGeneratorApp.Application.csproj|c:\\projects\\moha\\accesstokengeneratorapp\\accesstokengeneratorapp.application\\common\\models\\responsecodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F87B48-D388-43B9-A447-997B2E8075A2}|AccessTokenGeneratorApp.Application\\AccessTokenGeneratorApp.Application.csproj|solutionrelative:accesstokengeneratorapp.application\\common\\models\\responsecodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F87B48-D388-43B9-A447-997B2E8075A2}|AccessTokenGeneratorApp.Application\\AccessTokenGeneratorApp.Application.csproj|c:\\projects\\moha\\accesstokengeneratorapp\\accesstokengeneratorapp.application\\common\\models\\jwtmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F87B48-D388-43B9-A447-997B2E8075A2}|AccessTokenGeneratorApp.Application\\AccessTokenGeneratorApp.Application.csproj|solutionrelative:accesstokengeneratorapp.application\\common\\models\\jwtmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F87B48-D388-43B9-A447-997B2E8075A2}|AccessTokenGeneratorApp.Application\\AccessTokenGeneratorApp.Application.csproj|c:\\projects\\moha\\accesstokengeneratorapp\\accesstokengeneratorapp.application\\common\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F87B48-D388-43B9-A447-997B2E8075A2}|AccessTokenGeneratorApp.Application\\AccessTokenGeneratorApp.Application.csproj|solutionrelative:accesstokengeneratorapp.application\\common\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A306D42A-28C6-4AE8-8B3B-EADB06D226E9}|AccessTokenGeneratorApp.Infrastructure\\AccessTokenGeneratorApp.Infrastructure.csproj|c:\\projects\\moha\\accesstokengeneratorapp\\accesstokengeneratorapp.infrastructure\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A306D42A-28C6-4AE8-8B3B-EADB06D226E9}|AccessTokenGeneratorApp.Infrastructure\\AccessTokenGeneratorApp.Infrastructure.csproj|solutionrelative:accesstokengeneratorapp.infrastructure\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB0F779-DBBB-4F4C-B3B7-7601307AB047}|AccessTokenGeneratorApp.Domain\\AccessTokenGeneratorApp.Domain.csproj|c:\\projects\\moha\\accesstokengeneratorapp\\accesstokengeneratorapp.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB0F779-DBBB-4F4C-B3B7-7601307AB047}|AccessTokenGeneratorApp.Domain\\AccessTokenGeneratorApp.Domain.csproj|solutionrelative:accesstokengeneratorapp.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB0F779-DBBB-4F4C-B3B7-7601307AB047}|AccessTokenGeneratorApp.Domain\\AccessTokenGeneratorApp.Domain.csproj|c:\\projects\\moha\\accesstokengeneratorapp\\accesstokengeneratorapp.domain\\entities\\accesstoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB0F779-DBBB-4F4C-B3B7-7601307AB047}|AccessTokenGeneratorApp.Domain\\AccessTokenGeneratorApp.Domain.csproj|solutionrelative:accesstokengeneratorapp.domain\\entities\\accesstoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB0F779-DBBB-4F4C-B3B7-7601307AB047}|AccessTokenGeneratorApp.Domain\\AccessTokenGeneratorApp.Domain.csproj|c:\\projects\\moha\\accesstokengeneratorapp\\accesstokengeneratorapp.domain\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB0F779-DBBB-4F4C-B3B7-7601307AB047}|AccessTokenGeneratorApp.Domain\\AccessTokenGeneratorApp.Domain.csproj|solutionrelative:accesstokengeneratorapp.domain\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A306D42A-28C6-4AE8-8B3B-EADB06D226E9}|AccessTokenGeneratorApp.Infrastructure\\AccessTokenGeneratorApp.Infrastructure.csproj|c:\\projects\\moha\\accesstokengeneratorapp\\accesstokengeneratorapp.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A306D42A-28C6-4AE8-8B3B-EADB06D226E9}|AccessTokenGeneratorApp.Infrastructure\\AccessTokenGeneratorApp.Infrastructure.csproj|solutionrelative:accesstokengeneratorapp.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A306D42A-28C6-4AE8-8B3B-EADB06D226E9}|AccessTokenGeneratorApp.Infrastructure\\AccessTokenGeneratorApp.Infrastructure.csproj|c:\\projects\\moha\\accesstokengeneratorapp\\accesstokengeneratorapp.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A306D42A-28C6-4AE8-8B3B-EADB06D226E9}|AccessTokenGeneratorApp.Infrastructure\\AccessTokenGeneratorApp.Infrastructure.csproj|solutionrelative:accesstokengeneratorapp.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A306D42A-28C6-4AE8-8B3B-EADB06D226E9}|AccessTokenGeneratorApp.Infrastructure\\AccessTokenGeneratorApp.Infrastructure.csproj|c:\\projects\\moha\\accesstokengeneratorapp\\accesstokengeneratorapp.infrastructure\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A306D42A-28C6-4AE8-8B3B-EADB06D226E9}|AccessTokenGeneratorApp.Infrastructure\\AccessTokenGeneratorApp.Infrastructure.csproj|solutionrelative:accesstokengeneratorapp.infrastructure\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A306D42A-28C6-4AE8-8B3B-EADB06D226E9}|AccessTokenGeneratorApp.Infrastructure\\AccessTokenGeneratorApp.Infrastructure.csproj|c:\\projects\\moha\\accesstokengeneratorapp\\accesstokengeneratorapp.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A306D42A-28C6-4AE8-8B3B-EADB06D226E9}|AccessTokenGeneratorApp.Infrastructure\\AccessTokenGeneratorApp.Infrastructure.csproj|solutionrelative:accesstokengeneratorapp.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC0C11F-C90D-409E-88C8-14A7D9154488}|AccessTokenGeneratorApp.API\\AccessTokenGeneratorApp.API.csproj|c:\\projects\\moha\\accesstokengeneratorapp\\accesstokengeneratorapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC0C11F-C90D-409E-88C8-14A7D9154488}|AccessTokenGeneratorApp.API\\AccessTokenGeneratorApp.API.csproj|solutionrelative:accesstokengeneratorapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "AccessTokenGeneratorApp.API\\Program.cs",
+              "ToolTip": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.API\\Program.cs",
+              "RelativeToolTip": "AccessTokenGeneratorApp.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:39:13.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Application\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "AccessTokenGeneratorApp.Application\\GlobalUsing.cs",
+              "ToolTip": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Application\\GlobalUsing.cs",
+              "RelativeToolTip": "AccessTokenGeneratorApp.Application\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:39:00.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AccessTokenGeneratorApp.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "AccessTokenGeneratorApp.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:38:45.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Application\\Common\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "AccessTokenGeneratorApp.Application\\Common\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Application\\Common\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "AccessTokenGeneratorApp.Application\\Common\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:38:40.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AccessTokenGeneratorApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AccessTokenGeneratorApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:37:53.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Infrastructure\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "AccessTokenGeneratorApp.Infrastructure\\GlobalUsing.cs",
+              "ToolTip": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Infrastructure\\GlobalUsing.cs",
+              "RelativeToolTip": "AccessTokenGeneratorApp.Infrastructure\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:36:36.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.API\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "AccessTokenGeneratorApp.API\\GlobalUsing.cs",
+              "ToolTip": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.API\\GlobalUsing.cs",
+              "RelativeToolTip": "AccessTokenGeneratorApp.API\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:34:08.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AccessTokenGeneratorApp.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AccessTokenGeneratorApp.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:33:40.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Application\\Common\\DTOs\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "AccessTokenGeneratorApp.Application\\Common\\DTOs\\RegisterRequest.cs",
+              "ToolTip": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Application\\Common\\DTOs\\RegisterRequest.cs",
+              "RelativeToolTip": "AccessTokenGeneratorApp.Application\\Common\\DTOs\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:25:48.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Application\\Common\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "AccessTokenGeneratorApp.Application\\Common\\DTOs\\LoginRequest.cs",
+              "ToolTip": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Application\\Common\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "AccessTokenGeneratorApp.Application\\Common\\DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:25:28.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JwtModel.cs",
+              "DocumentMoniker": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Application\\Common\\Models\\JwtModel.cs",
+              "RelativeDocumentMoniker": "AccessTokenGeneratorApp.Application\\Common\\Models\\JwtModel.cs",
+              "ToolTip": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Application\\Common\\Models\\JwtModel.cs",
+              "RelativeToolTip": "AccessTokenGeneratorApp.Application\\Common\\Models\\JwtModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:24:44.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Application\\Common\\Models\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "AccessTokenGeneratorApp.Application\\Common\\Models\\EmailSettings.cs",
+              "ToolTip": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Application\\Common\\Models\\EmailSettings.cs",
+              "RelativeToolTip": "AccessTokenGeneratorApp.Application\\Common\\Models\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:23:35.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResponseCodes.cs",
+              "DocumentMoniker": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Application\\Common\\Models\\ResponseCodes.cs",
+              "RelativeDocumentMoniker": "AccessTokenGeneratorApp.Application\\Common\\Models\\ResponseCodes.cs",
+              "ToolTip": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Application\\Common\\Models\\ResponseCodes.cs",
+              "RelativeToolTip": "AccessTokenGeneratorApp.Application\\Common\\Models\\ResponseCodes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:23:23.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Application\\Common\\Models\\Result.cs",
+              "RelativeDocumentMoniker": "AccessTokenGeneratorApp.Application\\Common\\Models\\Result.cs",
+              "ToolTip": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Application\\Common\\Models\\Result.cs",
+              "RelativeToolTip": "AccessTokenGeneratorApp.Application\\Common\\Models\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:22:57.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Application\\Common\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "AccessTokenGeneratorApp.Application\\Common\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Application\\Common\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "AccessTokenGeneratorApp.Application\\Common\\Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:22:16.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Application\\Common\\Interfaces\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "AccessTokenGeneratorApp.Application\\Common\\Interfaces\\IEmailSender.cs",
+              "ToolTip": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Application\\Common\\Interfaces\\IEmailSender.cs",
+              "RelativeToolTip": "AccessTokenGeneratorApp.Application\\Common\\Interfaces\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:22:05.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Infrastructure\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "AccessTokenGeneratorApp.Infrastructure\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Infrastructure\\Services\\TokenService.cs",
+              "RelativeToolTip": "AccessTokenGeneratorApp.Infrastructure\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:21:29.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Infrastructure\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "AccessTokenGeneratorApp.Infrastructure\\Services\\EmailSender.cs",
+              "ToolTip": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Infrastructure\\Services\\EmailSender.cs",
+              "RelativeToolTip": "AccessTokenGeneratorApp.Infrastructure\\Services\\EmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:21:23.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Infrastructure\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "AccessTokenGeneratorApp.Infrastructure\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Infrastructure\\Services\\AuthService.cs",
+              "RelativeToolTip": "AccessTokenGeneratorApp.Infrastructure\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:20:56.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Domain\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "AccessTokenGeneratorApp.Domain\\GlobalUsing.cs",
+              "ToolTip": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Domain\\GlobalUsing.cs",
+              "RelativeToolTip": "AccessTokenGeneratorApp.Domain\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:19:58.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "AccessTokenGeneratorApp.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "AccessTokenGeneratorApp.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:19:34.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccessToken.cs",
+              "DocumentMoniker": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Domain\\Entities\\AccessToken.cs",
+              "RelativeDocumentMoniker": "AccessTokenGeneratorApp.Domain\\Entities\\AccessToken.cs",
+              "ToolTip": "C:\\Projects\\moha\\AccessTokenGeneratorApp\\AccessTokenGeneratorApp.Domain\\Entities\\AccessToken.cs",
+              "RelativeToolTip": "AccessTokenGeneratorApp.Domain\\Entities\\AccessToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:19:15.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Application\obj\Debug\net8.0\AccessTokenGeneratorApp.Application.csproj.AssemblyReference.cache
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Application\obj\Debug\net8.0\AccessTokenGeneratorApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Application\obj\Debug\net8.0\AccessTokenGeneratorApp.Application.AssemblyInfoInputs.cache
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Application\obj\Debug\net8.0\AccessTokenGeneratorApp.Application.AssemblyInfo.cs
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Application\obj\Debug\net8.0\AccessTokenGeneratorApp.Application.csproj.CoreCompileInputs.cache
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Application\bin\Debug\net8.0\AccessTokenGeneratorApp.Application.deps.json
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Application\bin\Debug\net8.0\AccessTokenGeneratorApp.Application.dll
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Application\bin\Debug\net8.0\AccessTokenGeneratorApp.Application.pdb
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Application\bin\Debug\net8.0\AccessTokenGeneratorApp.Domain.dll
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Application\bin\Debug\net8.0\AccessTokenGeneratorApp.Domain.pdb
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Application\obj\Debug\net8.0\AccessTo.F3FBA96D.Up2Date
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Application\obj\Debug\net8.0\AccessTokenGeneratorApp.Application.dll
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Application\obj\Debug\net8.0\refint\AccessTokenGeneratorApp.Application.dll
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Application\obj\Debug\net8.0\AccessTokenGeneratorApp.Application.pdb
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Application\obj\Debug\net8.0\ref\AccessTokenGeneratorApp.Application.dll

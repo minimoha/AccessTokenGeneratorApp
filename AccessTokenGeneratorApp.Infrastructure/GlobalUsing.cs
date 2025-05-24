@@ -1,0 +1,17 @@
+﻿global using System.IdentityModel.Tokens.Jwt;
+global using System.Net;
+global using System.Net.Mail;
+global using System.Security.Claims;
+global using System.Text;
+global using AccessTokenGeneratorApp.Application.Common.DTOs;
+global using AccessTokenGeneratorApp.Application.Common.Interfaces;
+global using AccessTokenGeneratorApp.Application.Common.Models;
+global using AccessTokenGeneratorApp.Domian.Entities;
+global using FluentValidation;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.AspNetCore.Identity;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.Options;
+global using Microsoft.IdentityModel.Tokens;
+global using Serilog;

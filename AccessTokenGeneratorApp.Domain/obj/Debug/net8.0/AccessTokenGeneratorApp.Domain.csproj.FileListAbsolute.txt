@@ -1,0 +1,11 @@
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Domain\bin\Debug\net8.0\AccessTokenGeneratorApp.Domain.deps.json
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Domain\bin\Debug\net8.0\AccessTokenGeneratorApp.Domain.dll
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Domain\bin\Debug\net8.0\AccessTokenGeneratorApp.Domain.pdb
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Domain\obj\Debug\net8.0\AccessTokenGeneratorApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Domain\obj\Debug\net8.0\AccessTokenGeneratorApp.Domain.AssemblyInfoInputs.cache
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Domain\obj\Debug\net8.0\AccessTokenGeneratorApp.Domain.AssemblyInfo.cs
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Domain\obj\Debug\net8.0\AccessTokenGeneratorApp.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Domain\obj\Debug\net8.0\AccessTokenGeneratorApp.Domain.dll
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Domain\obj\Debug\net8.0\refint\AccessTokenGeneratorApp.Domain.dll
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Domain\obj\Debug\net8.0\AccessTokenGeneratorApp.Domain.pdb
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Domain\obj\Debug\net8.0\ref\AccessTokenGeneratorApp.Domain.dll

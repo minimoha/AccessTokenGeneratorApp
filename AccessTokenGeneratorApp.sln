@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessTokenGeneratorApp.API", "AccessTokenGeneratorApp.API\AccessTokenGeneratorApp.API.csproj", "{0AC0C11F-C90D-409E-88C8-14A7D9154488}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessTokenGeneratorApp.Application", "AccessTokenGeneratorApp.Application\AccessTokenGeneratorApp.Application.csproj", "{E4F87B48-D388-43B9-A447-997B2E8075A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessTokenGeneratorApp.Domain", "AccessTokenGeneratorApp.Domain\AccessTokenGeneratorApp.Domain.csproj", "{9BB0F779-DBBB-4F4C-B3B7-7601307AB047}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessTokenGeneratorApp.Infrastructure", "AccessTokenGeneratorApp.Infrastructure\AccessTokenGeneratorApp.Infrastructure.csproj", "{A306D42A-28C6-4AE8-8B3B-EADB06D226E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AC0C11F-C90D-409E-88C8-14A7D9154488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC0C11F-C90D-409E-88C8-14A7D9154488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AC0C11F-C90D-409E-88C8-14A7D9154488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AC0C11F-C90D-409E-88C8-14A7D9154488}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4F87B48-D388-43B9-A447-997B2E8075A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4F87B48-D388-43B9-A447-997B2E8075A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4F87B48-D388-43B9-A447-997B2E8075A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4F87B48-D388-43B9-A447-997B2E8075A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BB0F779-DBBB-4F4C-B3B7-7601307AB047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB0F779-DBBB-4F4C-B3B7-7601307AB047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB0F779-DBBB-4F4C-B3B7-7601307AB047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB0F779-DBBB-4F4C-B3B7-7601307AB047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A306D42A-28C6-4AE8-8B3B-EADB06D226E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A306D42A-28C6-4AE8-8B3B-EADB06D226E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A306D42A-28C6-4AE8-8B3B-EADB06D226E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A306D42A-28C6-4AE8-8B3B-EADB06D226E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17C10C4D-70D7-47D1-9299-AA5190390A01}
+	EndGlobalSection
+EndGlobal

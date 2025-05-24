@@ -1,0 +1,17 @@
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Infrastructure\obj\Debug\net8.0\AccessTokenGeneratorApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Infrastructure\obj\Debug\net8.0\AccessTokenGeneratorApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Infrastructure\obj\Debug\net8.0\AccessTokenGeneratorApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Infrastructure\obj\Debug\net8.0\AccessTokenGeneratorApp.Infrastructure.AssemblyInfo.cs
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Infrastructure\obj\Debug\net8.0\AccessTokenGeneratorApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Infrastructure\bin\Debug\net8.0\AccessTokenGeneratorApp.Infrastructure.deps.json
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Infrastructure\bin\Debug\net8.0\AccessTokenGeneratorApp.Infrastructure.dll
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Infrastructure\bin\Debug\net8.0\AccessTokenGeneratorApp.Infrastructure.pdb
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Infrastructure\bin\Debug\net8.0\AccessTokenGeneratorApp.Application.dll
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Infrastructure\bin\Debug\net8.0\AccessTokenGeneratorApp.Domain.dll
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Infrastructure\bin\Debug\net8.0\AccessTokenGeneratorApp.Application.pdb
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Infrastructure\bin\Debug\net8.0\AccessTokenGeneratorApp.Domain.pdb
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Infrastructure\obj\Debug\net8.0\AccessTo.D37075F3.Up2Date
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Infrastructure\obj\Debug\net8.0\AccessTokenGeneratorApp.Infrastructure.dll
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Infrastructure\obj\Debug\net8.0\refint\AccessTokenGeneratorApp.Infrastructure.dll
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Infrastructure\obj\Debug\net8.0\AccessTokenGeneratorApp.Infrastructure.pdb
+C:\Projects\moha\AccessTokenGeneratorApp\AccessTokenGeneratorApp.Infrastructure\obj\Debug\net8.0\ref\AccessTokenGeneratorApp.Infrastructure.dll

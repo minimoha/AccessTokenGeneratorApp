@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AccessTokenGeneratorApp.Domain/1.0.0": {
+        "runtime": {
+          "AccessTokenGeneratorApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AccessTokenGeneratorApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
